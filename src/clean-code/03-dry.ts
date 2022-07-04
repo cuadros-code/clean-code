@@ -28,7 +28,6 @@ class Product {
   }
 
   toString(){
-    // No Dry
     if( !this.isProductReady() ) return;
     return `name: ${this.name}, price: ${this.price}, size: ${this.size}`
   }
