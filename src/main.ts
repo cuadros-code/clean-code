@@ -1,6 +1,8 @@
 import './style.css'
+import './clean-code/02-functions'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
+
 
 app.innerHTML = `
   <h1>CleanCode y SOLID</h1>
