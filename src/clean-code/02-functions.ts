@@ -10,7 +10,7 @@
     // } else {
     //     return false;
     // }
-    return [ 'manzana', 'cereza', 'ciruela' ].includes( fruit ) ? true : false
+    return [ 'manzana', 'cereza', 'ciruela' ].includes( fruit )
   }
 
   // Simplificar esta función
