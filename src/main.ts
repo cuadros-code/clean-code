@@ -1,5 +1,5 @@
 import './style.css'
-import './clean-code/07-tarea'
+import './code-smells/01-singleton.js'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
