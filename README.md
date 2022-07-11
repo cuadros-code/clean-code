@@ -1,22 +1,5 @@
 # Notes
 
-<div class="grid">
-  <img class="img" src='./clean.jpg' />
-  <img class="img" src='./dry.jpg' />
-  <img class="img" src='./structure-class.jpg' />
-
-</div>
-
-
-<style>
-  .grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-  }
-
-  .img {
-    object-fit: contain;
-    width: 500px
-  }
-
-</style>
+<img width="400px" src='./clean.jpg' />
+<img width="400px" src='./dry.jpg' />
+<img width="400px" src='./structure-class.jpg' />
