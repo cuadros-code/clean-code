@@ -1,18 +1,22 @@
-# Proyecto para practicar
+# Notes
 
-Este es un proyecto de Vanilla TypeScript en Vite, para trabajar los ejercicios del curso sobre Principios SOLID y CleanCode.
+<div class="grid">
+  <img class="img" src='./clean.jpg' />
+  <img class="img" src='./dry.jpg' />
+  <img class="img" src='./structure-class.jpg' />
 
-Clonar o descargar el proyecto y luego:
+</div>
 
-```
-yarn install
-ó
-npm install
-```
 
-Para ejecutar el proyecto, simplemente ejecuten
-```
-yarn dev
-ó
-npm run dev
-```
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .img {
+    object-fit: contain;
+    width: 500px
+  }
+
+</style>
